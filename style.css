@@ -1,0 +1,65 @@
+.navbar {
+  font-size: 20px;
+  font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
+}
+/* style jumbotron */
+.jumbotron {
+  padding: 5rem;
+  background-image: url(img/car/slide2.jpg);
+  background-size: cover;
+  height: 770px;
+  text-align: center;
+}
+.jumbotron .display-4 {
+  color: #f05f40;
+}
+.jumbotron .lead {
+  color: #f05f40;
+  font-size: 25px;
+}
+.jumbotron hr {
+  border-color: #f05f40;
+}
+/* style jumbotron end */
+
+/* Style carousel */
+.carousel-item {
+  height: 670px;
+}
+.carousel-item img {
+  margin-top: -120px;
+}
+.carousel-item .display-5 {
+  margin-top: -400px;
+}
+/* style carousel end */
+
+/* style kontak */
+.contact {
+  background-image: url(img/car/slide1.jpg);
+}
+/* style kontak end */
+#project {
+  background-color: #e2edff;
+}
+section {
+  padding: 5rem;
+}
+h2 {
+  color: rgb(253, 83, 26);
+}
+body {
+  background-color: #e2edff;
+}
+.fa-facebook {
+  color: blue;
+}
+.fa-instagram {
+  color: purple;
+}
+.fa-twitter {
+  color: aqua;
+}
+.fa-pinterest {
+  color: red;
+}
